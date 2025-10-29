@@ -1,2 +1,3 @@
 # Astagram
-Hey this is my shittiest repo ever, dont contribute! :)
+Author - Roushan Raut
+Local Host device - HP pavillion
